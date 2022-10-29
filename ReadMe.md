@@ -1,6 +1,6 @@
 # **For the BQ27Z561 Fuel Gauge**
 
-## The following module was developed for the BQ27Z561 fuel gauge by Texas Instruments.
+## The following module was developed for the BQ27Z561, a "fuel gauge" manufactured by Texas Instruments.
 
 <br>
 
